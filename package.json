@@ -1,0 +1,24 @@
+{
+  "name": "you-stream",
+  "version": "1.0.0",
+  "description": "A library to fetch YouTube video streams.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [
+    "youtube",
+    "stream",
+    "video",
+    "youtube-dl",
+    "youtube-stream",
+    "youtube-streams",
+    "youtube-streaming",
+    "youtube-streamer",
+    "youtube-streamers",
+    "youtube-streamed"
+  ],
+  "author": "KHAOUITI ABDELHAKIM",
+  "license": "ISC",
+  "dependencies": {}
+}
