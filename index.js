@@ -39,11 +39,6 @@ async function getInfo(videoId) {
     }).then((r) => r.json());
 }
 
-async function getStreamUrl(videoID) {
-    const info = await getInfo(videoID);
-    const audio = info.streamingData.adaptiveFormats.find((f) => f.itag == 140);
-    return { url: audio?.url };
-}
 
 async function getBestAudio(videoID) {
     const info = await getInfo(videoID);
