@@ -1,6 +1,6 @@
 {
   "name": "you-stream-js",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A library to fetch YouTube video streams.",
   "main": "index.js",
   "scripts": {
