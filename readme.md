@@ -28,7 +28,7 @@
 You can install **you-stream** via npm:
 
 ```bash
-npm install you-stream
+npm install you-stream-js
 ```
 
 ## Usage
@@ -38,7 +38,7 @@ Here's how to use the **you-stream** library to get the best audio and video str
 ### Import the Library
 
 ```javascript
-const { getBestAudio, getBestVideo, getAllAdaptiveFormats, getFormatInfoByItag } = require('you-stream');
+const { getBestAudio, getBestVideo, getAllAdaptiveFormats, getFormatInfoByItag } = require('you-stream-js');
 ```
 
 ### API Methods
@@ -70,7 +70,7 @@ const { getBestAudio, getBestVideo, getAllAdaptiveFormats, getFormatInfoByItag }
 Here’s an example demonstrating how to use the library:
 
 ```javascript
-const { getBestAudio, getBestVideo, getAllAdaptiveFormats, getFormatInfoByItag } = require('you-stream');
+const { getBestAudio, getBestVideo, getAllAdaptiveFormats, getFormatInfoByItag } = require('you-stream-js');
 
 const videoID = 'YOUR_VIDEO_ID_HERE'; // Replace with a valid YouTube video ID
 
