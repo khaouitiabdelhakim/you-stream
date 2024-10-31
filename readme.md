@@ -1,8 +1,10 @@
 # You Stream
 
-![NPM](https://img.shields.io/npm/v/you-stream) ![License](https://img.shields.io/badge/license-MIT-green)
+![NPM](https://img.shields.io/npm/v/you-stream-js) ![License](https://img.shields.io/badge/license-MIT-green)
 
 **You Stream** is a simple and efficient JavaScript library for fetching YouTube video streams. It allows you to retrieve audio and video formats, get the best quality streams, and manage adaptive formats with ease.
+
+![pic](https://github.com/khaouitiabdelhakim/you-stream-js/blob/main/picture.png)
 
 ## Table of Contents
 
