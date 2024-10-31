@@ -4,6 +4,8 @@
 
 **You Stream** is a simple and efficient JavaScript library for fetching YouTube video streams. It allows you to retrieve audio and video formats, get the best quality streams, and manage adaptive formats with ease.
 
+![pic](https://github.com/khaouitiabdelhakim/you-stream-js/blob/main/picture.png)
+
 ## Table of Contents
 
 - [Features](#features)
