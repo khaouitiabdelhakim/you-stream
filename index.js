@@ -66,9 +66,9 @@ async function getFormatInfoByItag(videoID, itag) {
 }
 
 module.exports = {
-    getStreamUrl,
     getBestAudio,
     getBestVideo,
     getAllAdaptiveFormats,
     getFormatInfoByItag,
 };
+
